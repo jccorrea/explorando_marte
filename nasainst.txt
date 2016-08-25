@@ -1,0 +1,4 @@
+3 5 N
+LDMMDL
+6 1 S
+DDMMDL

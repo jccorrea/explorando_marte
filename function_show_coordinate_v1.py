@@ -15,7 +15,7 @@ def move_space_probe(coo_x, coo_y, direction):
 
 # In[62]:
 
-move_space_probe(1,2,"N")
+move_space_probe(x, y, d)
 
 
 # In[ ]:
